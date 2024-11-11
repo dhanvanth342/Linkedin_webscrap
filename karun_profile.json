@@ -1,0 +1,248 @@
+[
+  {
+    "profile": {
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "United States",
+        "addressCountry": "US"
+      },
+      "alumniOf": [],
+      "awards": [
+        "Amazon Natural Language Processing Competition ",
+        "AI Hackathon Winner",
+        "Bronze Award, Most Valuable Contributor",
+        "Big Data Hackathon - Third Place",
+        "Best Project Award",
+        "Best Paper Award",
+        "Recognition for Academic Excellence",
+        "Mahindra Scholarship",
+        "Recognition for Academic Excellence",
+        "Scholastic Acheivement"
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://media.licdn.com/dms/image/v2/D5603AQGL__0iUkUm1w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719138506175?e=2147483647&v=beta&t=xoSwRMCwgeVuZWDh4L2xGgaHCXZpAT-wTcWbh5gVexg"
+      },
+      "jobTitle": [
+        "****** **** *********, *********",
+        "******* ********* **",
+        "**** ********* **",
+        "** *** ***** ******** ******** *********",
+        "**** ******* ******",
+        "**** ******* *** ***, ******** *********",
+        "******** *********",
+        "******** *********** ******** ** (**** *******)",
+        "******** *********** ******** * (**** *********** & *********)",
+        "****** ********* @ ******** ******* *** *********** ***********",
+        "******** *********** ******"
+      ],
+      "name": "Karun Thankachan",
+      "sameAs": "https://www.linkedin.com/in/karunt",
+      "url": "https://www.linkedin.com/in/karunt",
+      "memberOf": [],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Walmart",
+          "url": "https://www.linkedin.com/company/walmart",
+          "location": "New Jersey, United States",
+          "member": {
+            "@type": "OrganizationRole",
+            "description": "********** ****** ** ******* ******* ********* *** ************ ** *******."
+          }
+        }
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Malayalam"
+        }
+      ],
+      "disambiguatingDescription": "",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/FollowAction",
+        "name": "Follows",
+        "userInteractionCount": 50517
+      },
+      "description": "💪 Follow to build a career in Data Science!<br><br>💬 I share interview questions…"
+    },
+    "posts": [
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-07-05T07:58:43.000+00:00",
+        "headline": "Data Science in Food",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQERR9z7bL3xXQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1530777505249?e=2147483647&v=beta&t=u_iP6ruqgZDiG4fdQatPvwb2VY-VQF9JJDyVMp1OIW8"
+        },
+        "articleBody": "Finding the perfect meal, the one satisfies your craving and hunger for a reasonable price is no easy task. Uber Eats is one platform that takes this challenge very seriously. Depending on time of day, cuisine preference, current mood etc. eaters can have varied choices. Uber eats tackle this by building a Food Knowledge base or a 'Food Graph' (like Google Vault) which not only details the restaurants and each menu item but assigns tags regarding cuisine, geography and more. This tagging help 'rewrite' a user’s query from 'Asian' to 'Japanese, Chinese' as both come unders the type of cuisine he/she intends.This help enrich his search and provide him/her with better results. . Data Science is limitlessTo know more head over to  ",
+        "url": "https://www.linkedin.com/pulse/data-science-food-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-06-12T08:33:33.000+00:00",
+        "headline": "Data Science in AI Ethics",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQFNJBemaqeYZQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1528792399135?e=2147483647&v=beta&t=wZtfgJKyin9t-TZoJ6H6uBgVOGZLI1ic1XMhHHTWNKs"
+        },
+        "articleBody": "Tech giants are racing to sell packages machine learning solutions to clients, and as the trend of using machine learning grows so is the need to ensure the algorithms are not biased. Facebook took a big step in this direction with ‘Fairness Flow’, a product to detect algorithmic bias. As a pilot it tested the biases in hiring algorithms which can tend to favor men and white-sounding names and is now moving in a direction where any employee can plug in their algorithm to test for bias.Fairness flow can pick up a wide range of bias signals, for example  if training data shows more photos with women in kitchens than with men in them, then AIs can pick up that signal.To know more head over to   ",
+        "url": "https://www.linkedin.com/pulse/data-science-ai-ethics-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-06-05T08:03:36.000+00:00",
+        "headline": "Data Science in Crime Fighting",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQHxla59DtPIHw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1528185806273?e=2147483647&v=beta&t=Trh_7vhHBiU6zcNftjKA2Mpa0FNtiIhDlTsiHxLdptA"
+        },
+        "articleBody": "Police in Washington State say they have made an arrest in connection to the murders of a Victoria-area couple more than 30 years ago. They stated the suspect's DNA collected at the scene was used to identify suspects’ ancestors, which led them to him. The technology behind this turnaround – Genetic Genealogy, combines data analytics with genealogy research to find ‘similar DNA’ and extrapolate the identify (recognizable features) of a victim/suspect. The image shows a suspect’s caricature generated from genealogy analytics and side by side the real picture of a possible suspect. Data Science is limitlessTo know more head over to Credits ",
+        "url": "https://www.linkedin.com/pulse/data-science-crime-fighting-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-31T08:00:54.000+00:00",
+        "headline": "Data Science in Education",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQG-bLlPybxUtg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527753640731?e=2147483647&v=beta&t=7z3bp16uZkmyZdnSLvn-av3piAt0X7e387FMxsKSiO0"
+        },
+        "articleBody": "Cincinati is one of the cities in which the Elementary Initiative was launched (2008) and it introduced ‘Data Rooms’ in every school. A room where the data of every student was analyzed and insights found by the teachers themselves. For instance, two teachers at the third-grade saw some did well on pronoun use and struggled with fractions in one of their classes and vice-versa in the other teacher’s class. So they traded curricula and saw both classes score go up. Student who lived near on another were given the same reading assignments and homework and their completion rates went up. Some students were struggling with math and that’s how the ‘Hot Pencil’ drill started where each morning students would fill out few questions as fast as they could to be awarded the opportunity to have their name announced to the whole school over the PA system.Data Science is limitlessTo know more head over to CreditsSmarter, Faster, Better – Charles Duhigg ",
+        "url": "https://www.linkedin.com/pulse/data-science-education-karun-thankachan-1"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-30T07:35:54.000+00:00",
+        "headline": "Data Science for Prediction",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQH4LhdnlExszw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1527665737081?e=2147483647&v=beta&t=-mhksy1zgHpV_RbrGCthpKGVx5IwkZ129LU3eeApeEU"
+        },
+        "articleBody": "Terra Seismic a company established with the mission “reduce the risk and damage of earthquakes” uses data science on environmental factors, live streaming satellite images and historical data to forecast earthquakes. In 2004 it predicted 90% of the major earthquakes including the 8.1 ‘megaquake’ that hit the Chilean Tarapaca region.Its accuracy is high enough that insurance companies use their data to make sure every region has adequate coverage. Also traders and hedge fudge managers use them as part of their analysis to see how natural disasters affect financial markets and MNCs.Data Science is limitlessTo know more head over to https://datascienceandmore.wordpress.com/CreditsBig Data in Practice, Bernard Marrhttp://www.terraseismic.com/ ",
+        "url": "https://www.linkedin.com/pulse/data-science-prediction-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-29T07:58:03.000+00:00",
+        "headline": "Data Science in Transport",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQENUJG2VV6xVA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527580649515?e=2147483647&v=beta&t=rEJALEJskr1qywmUIsyfAxeSzVG8d96HTNzXp5T3fjI"
+        },
+        "articleBody": "Transport for London (TfL) manages a complex set of data collected over ticketing systems, traffic signals, survey and social media to oversee a network of buses, trains, taxis, cycles and even ferries used by millions of people. This anonymized data is used to map user journeys, predict unexpected events and provide personalized travel information.For example, when a bridge had to be closed for repairs the affected 110,000 users were informed via personalized messages to make arrangements for alternative travel paths. The data is also used to understand ‘load profiles’ i.e. how crowded a particular route can get and plan ahead for such events.Data Science is limitlessTo know more head over to https://datascienceandmore.wordpress.com/CreditsBig Data in Practice, Bernard Marr http://thebigacademy.org/employer/243_transport_for_london ",
+        "url": "https://www.linkedin.com/pulse/data-science-transport-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-28T08:38:52.000+00:00",
+        "headline": "Data Science at Disney World",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQEPMYDLA86Vfw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1527496707717?e=2147483647&v=beta&t=3gTt9WL58pQqQFFjwa8rUI_2qrBcL82NJqvLLjE0os4"
+        },
+        "articleBody": "Walt Disney World, Orlando, Florida launched MagicBand – a colorful wrist band that can help guests access their hotel rooms, pay for merchandise, get tickets for rides and more. This wristband also provides a rich source of data for Walt Disney to improve their services – who guests are, where they go, what rides they frequent, the wait time at each ride and more regarding their experience.It also has add-on features such as if you upload your photo, then that photos of you taken on rides will automatically be uploaded to your account.Data Science is limitlessTo know more head over to https://datascienceandmore.wordpress.com/CreditsBig Data in Practice, Bernard Marr http://hours.ninja/walt-disney-world-resort-in-orlando-florida-hours-of-operation/ ",
+        "url": "https://www.linkedin.com/pulse/data-science-disney-world-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-27T10:03:02.000+00:00",
+        "headline": "Data Science in Design",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQHm0ndZSNYEgA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527415375754?e=2147483647&v=beta&t=qJ3WYJHxKRobDbEjv34iq_gVhD5d9syuDXZf1zXJAfQ"
+        },
+        "articleBody": "Autodesk produces software for computer aided design in construction, production and graphics and entertainment. They recently started launching their products on Software-as-a-Service (SAAS) model, where user simply login into portals where they can design and develop instead of having to install software on their own systems. This model help Autodesk tap into a rich variety of data.With SAAS Autodesk is able to track how customer are using their products, which features are in high demand and which ones can be scaled down. This helped build a mentality of constantly evolving the product they have built since they get feedback every day rather that shipping the product and then waiting for 3-4 months before customers give feedback.Data Science is limitlessTo know more head over to https://datascienceandmore.wordpress.com/CreditsBig Data in Practice, Bernard Marr ",
+        "url": "https://www.linkedin.com/pulse/data-science-design-karun-thankachan-1"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-24T07:44:45.000+00:00",
+        "headline": "Data Science in Sports",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQHi4mOkOA-ifQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527147869377?e=2147483647&v=beta&t=bewLSrMDvvlrJ9TwGN3QfV4VTHi-NNhLAu3RF9GiFr0"
+        },
+        "articleBody": "During the 2014 US Open, Ralph Lauren unveiled the PoloTech Shirt - to improve wellness and quality of life for its users, all driven by data. Sensors attached to thread inside the shirt pick up the users movements, heartbeats and even breathing rate. It can deduce the steps taken and calories burnt and moreover based on the movement data an accompanying app can suggest custom strength or agility workouts to improve the user’s health. Such biometric data paves the way for not just improving fitness of user but can help avoid injury or overtraining especially in the case of professional athletes. Data Science is limitless To know more head over to https://datascienceandmore.wordpress.com/ Credits Big Data in Practice, Bernard Marr http://www.brandchannel.com/2015/08/24/polotech-shirt-082415/ ",
+        "url": "https://www.linkedin.com/pulse/data-science-sports-karun-thankachan"
+      },
+      {
+        "@type": "Article",
+        "author": {
+          "@type": "Person",
+          "name": "Karun Thankachan",
+          "url": "https://www.linkedin.com/in/karunt"
+        },
+        "dateModified": "",
+        "datePublished": "2018-05-23T07:21:19.000+00:00",
+        "headline": "Data Science in Casinos",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://media.licdn.com/dms/image/v2/C4E12AQH8FuBxyXAiJg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1527060038797?e=2147483647&v=beta&t=OLvCBZKYbrQpBihwbxtdW9iVXg8wamJlSG2hu2UA2mA"
+        },
+        "articleBody": "Casino industry has been in decline for a few years, but it may not be a problem if you are large hotel with a gambling facility – as proved by data science. Luxury hotel industry is booming and by playing your cards right it is still possible to turn huge profits. Data has shown vast majority of the income does not come from the holidaying super-rich, rather comes from the everyday middle-class visitor hungry for a taste of western-indulgence. Additionally video data was analyzed to position amenities where such visitors are most likely to buy them. Studies on slot-machines have also show that payout rate for them can be decrease which led to 300 million extra profits since it was introduced. The big-spenders too can received a more personalized experience - receiving them as they arrive, having a table booked at their favorite restaurant, even offering them incentives (free drinks, upgrade on hotel rooms) when they have a bad night – all add towards building customer loyalty and in turn profits.Data Science is limitless To know more head over to https://datascienceandmore.wordpress.com/ Credits Big Data in Practice, Bernard Marr https://www.spiritmountain.com/casino ",
+        "url": "https://www.linkedin.com/pulse/data-science-casinos-karun-thankachan"
+      }
+    ]
+  }
+]

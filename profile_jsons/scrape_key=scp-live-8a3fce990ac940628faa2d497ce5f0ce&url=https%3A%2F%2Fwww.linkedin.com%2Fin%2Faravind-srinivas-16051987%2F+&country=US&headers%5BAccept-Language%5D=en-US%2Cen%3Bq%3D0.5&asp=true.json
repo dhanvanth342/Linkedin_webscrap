@@ -1,0 +1,74 @@
+{
+  "profile": {
+    "@type": "Person",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Francisco, California, United States",
+      "addressCountry": "US"
+    },
+    "alumniOf": [
+      {
+        "@type": "EducationalOrganization",
+        "name": "University of California, Berkeley",
+        "url": "https://www.linkedin.com/school/uc-berkeley/",
+        "member": {
+          "@type": "OrganizationRole",
+          "description": "Research: <br>Contrastive Learning for Computer Vision (CPCv2), Reinforcement Learning (CURL).<br>Transformers for Image Generation (Flow++), Image Recognition (BoTNet), Video Generation (VideoGPT), Reinforcement Learning (Decision Transformer).<br><br>Teaching: Deep Unsupervised Learning (Spring 20' and 21').",
+          "endDate": 2021
+        }
+      },
+      {
+        "@type": "EducationalOrganization",
+        "name": "****** ********* ** **********, ******",
+        "member": {
+          "@type": "OrganizationRole",
+          "description": "Research: <br>Deep Reinforcement Learning: Dynamic Action Repeats for Hierarchical RL (AAAI 17', ICLR 17'), Transfer Learning (ICLR 17').<br><br>Teaching: Reinforcement Learning (Spring 17'), Advanced Reinforcement Learning (Spring 17').",
+          "endDate": 2017
+        }
+      }
+    ],
+    "awards": [
+      "Viterbi India Fellowship",
+      "Indian National Mathematics Olympiad Merit Awardee",
+      "Kishore Vaigyanik Protsahan Yojana",
+      "National Talent Search Scholarship"
+    ],
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://static.licdn.com/aero-v1/sc/h/bgaqk7x4ntjz0wg67d8u723eb"
+    },
+    "jobTitle": [
+      "*********, ***",
+      "***** ********",
+      "******** *********",
+      "******** ******",
+      "******** ******",
+      "******** ******"
+    ],
+    "name": "Aravind Srinivas",
+    "sameAs": "https://www.linkedin.com/in/aravind-srinivas-16051987",
+    "url": "https://www.linkedin.com/in/aravind-srinivas-16051987",
+    "memberOf": [],
+    "worksFor": [
+      {
+        "@type": "Organization",
+        "name": "Perplexity",
+        "url": "https://www.linkedin.com/company/perplexity-ai",
+        "member": {
+          "@type": "OrganizationRole",
+          "description": "******* *** ** *** ******* ** *** ********"
+        }
+      }
+    ],
+    "knowsLanguage": [],
+    "disambiguatingDescription": "Creator, Top Voice",
+    "interactionStatistic": {
+      "@type": "InteractionCounter",
+      "interactionType": "https://schema.org/FollowAction",
+      "name": "Follows",
+      "userInteractionCount": 110507
+    },
+    "description": "Founder, CEO of Perplexity.<br><br>Perplexity is on a mission to build the world's most…"
+  },
+  "posts": []
+}

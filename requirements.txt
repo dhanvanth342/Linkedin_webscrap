@@ -1,0 +1,9 @@
+scrapfly-sdk[scrapy]
+parsel
+loguru
+gTTS
+pandas
+openpyxl
+python-dotenv
+langchain-groq
+langchain-core

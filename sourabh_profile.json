@@ -1,0 +1,84 @@
+[
+  {
+    "profile": {
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mumbai, Maharashtra, India",
+        "addressCountry": "IN"
+      },
+      "alumniOf": [
+        {
+          "@type": "Organization",
+          "name": "Housing.com",
+          "url": "https://in.linkedin.com/company/housing-com",
+          "location": "Mumbai Area, India",
+          "member": {
+            "@type": "OrganizationRole",
+            "startDate": "2015-01",
+            "endDate": "2015-11"
+          }
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Jawaharlal Nehru Technological University",
+          "url": "https://in.linkedin.com/school/jawaharlal-nehru-technological-university/",
+          "member": {
+            "@type": "OrganizationRole",
+            "description": "Drumming\t\tTravelling\t\t        Hiking\t         Traditional Archery \t        Horse Riding \t<br>",
+            "startDate": 2009,
+            "endDate": 2013
+          }
+        }
+      ],
+      "awards": [],
+      "image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://media.licdn.com/dms/image/v2/D4D03AQF_lCgDMhZ10A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721204893051?e=2147483647&v=beta&t=u8E1iXZLey61QWkawz_EIBz6TezGHfQfAl5l0DSc_Zk"
+      },
+      "jobTitle": [
+        "Founder",
+        "Founder"
+      ],
+      "name": "Saurabh Ranjan",
+      "sameAs": "https://in.linkedin.com/in/saurabh-liminal",
+      "url": "https://in.linkedin.com/in/saurabh-liminal",
+      "memberOf": [],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Liminal XR Solutions",
+          "url": "https://in.linkedin.com/company/liminalvr",
+          "location": "Mumbai, Maharashtra, India",
+          "member": {
+            "@type": "OrganizationRole",
+            "startDate": "2016-01"
+          }
+        }
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        },
+        {
+          "@type": "Language",
+          "name": "Hindi"
+        },
+        {
+          "@type": "Language",
+          "name": "Telugu"
+        }
+      ],
+      "disambiguatingDescription": "",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/FollowAction",
+        "name": "Follows",
+        "userInteractionCount": 1354
+      },
+      "description": "Saurabh is a creative technologist, entrepreneur, and product builder dedicated to blending reality and imagination through art, technology, and storytelling. With over a decade of experience in the tech industry, Saurabh has spent seven years conceptualizing and building innovative products at Liminal, the company he founded in 2015. Originally focused on XR, Liminal has since become a technology leader in sports broadcasting and marketing.<br><br>Under Saurabh’s leadership, Liminal has pioneered VR broadcasts for cricket and developed mixed reality interactive solutions to enhance the sports viewing experience. He has significantly contributed to multiple XR projects for Colgate, Reckitt, Airtel, IPL, ICC Cricket World Cup, Bigg Boss, and FIBA. His collaborations with organizations such as Google, Disney+ Hotstar, Amazon Prime, Facebook, Viacom18, and Sony highlight his ability to create engaging experiences through technology.<br><br>In addition to sports, Saurabh is also working with brands and companies to leverage XR for marketing and consumer insights. These initiatives aim to create immersive experiences that drive engagement and provide valuable data for better understanding consumer behavior.<br><br>An alumnus of Jawaharlal Nehru Technological University, Hyderabad, Saurabh holds a degree in Mechanical Engineering. In his free time, he enjoys honing his skills in music and photography."
+    },
+    "posts": []
+  }
+]

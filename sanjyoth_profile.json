@@ -1,0 +1,73 @@
+[
+  {
+    "profile": {
+      "@type": "Person",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thane, Maharashtra, India",
+        "addressCountry": "IN"
+      },
+      "alumniOf": [
+        {
+          "@type": "Organization",
+          "name": "IEEE SSJCOE Student Branch",
+          "location": "SSJCOE, Dombivli, Maharashtra, India",
+          "member": {
+            "@type": "OrganizationRole",
+            "description": "Chairperson of the IEEE Student Branch of Shivajirao S. Jondhale College of Engineering, Dombivli",
+            "startDate": "2019-08",
+            "endDate": "2020-09"
+          }
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Shivajirao S Jondhale College of Engineering Sonarpada Dombivli (East)",
+          "member": {
+            "@type": "OrganizationRole",
+            "startDate": 2016,
+            "endDate": 2020
+          }
+        }
+      ],
+      "awards": [],
+      "image": {
+        "@type": "ImageObject",
+        "contentUrl": "https://media.licdn.com/dms/image/v2/C5103AQG1W7fjH3bzhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1565164236029?e=2147483647&v=beta&t=GpHh4VCm3UV0bBIb1og-FJ66u5VWW5lbJnJUcos21iM"
+      },
+      "jobTitle": [
+        "Chief Technology Officer"
+      ],
+      "name": "Sanjyot Dahale",
+      "sameAs": "https://in.linkedin.com/in/sanjyot-dahale-904125148",
+      "url": "https://in.linkedin.com/in/sanjyot-dahale-904125148",
+      "memberOf": [],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Liminal VR and AR",
+          "url": "https://in.linkedin.com/company/liminalvr",
+          "location": "Mumbai, Maharashtra, India",
+          "member": {
+            "@type": "OrganizationRole",
+            "startDate": "2023-01"
+          }
+        }
+      ],
+      "knowsLanguage": [
+        {
+          "@type": "Language",
+          "name": "English"
+        }
+      ],
+      "disambiguatingDescription": "",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": "https://schema.org/FollowAction",
+        "name": "Follows",
+        "userInteractionCount": 277
+      },
+      "description": "Hi I'm Sanjyot Dahale. I have two passions, to create video games and to play video games. I am a programmer by heart and I love to learn and teach programming. Game Development is my passion and I have been learning game development since I was 16 years old. I have developed a few games throughout my time using the Unity Engine and I'm currently learning the Unreal Engine. I also have a lot of interest in other fields like Machine Learning, Artificial Intelligence, Augmented Reality, Virtual Reality and Internet of Things.<br><br>The phrase 'Jack of all trades, Master of None' does not apply in today's world but its updated version 'Be the Jack of all trades and a Master of one' is definitely the one which we should follow, hence being constantly updated in current technology has always been my goal. <br><br>I was the founding member of the IEEE Student Branch of our college and have been a integral part of the Student Branch since then. I was the Treasurer and a part of the Executive Committee of the IEEE SSJCOE Student Branch in the year 2018-2019 and I have been an active participant in all the activities of the Student Branch. Being a programmer, I have conducted a lot of workshops and competitions on the topics of Programming and Game Development. I have also conducted some team building and networking sessions which help the students to connect with each other, helps in team-building and also helps to induce confidence into the students."
+    },
+    "posts": []
+  }
+]
